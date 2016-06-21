@@ -4,4 +4,4 @@
 ---
 git push
 git init
-
+git log
